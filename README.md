@@ -12,7 +12,7 @@ This app is built using PHP and Symfony/Console for JSON to CSV Conversion.
 * Run `composer install`
 
 # Usage Options
-    Console App v1.0
+    Convert JSON to CSV from Command Line / Console v1.0
 
     Usage:
     command [options] [arguments]
@@ -34,7 +34,7 @@ This app is built using PHP and Symfony/Console for JSON to CSV Conversion.
 # Using the app
 
 ```sh
-php ./app csv
+php app csv
 ```
 
 Output
