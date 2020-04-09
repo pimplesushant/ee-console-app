@@ -12,7 +12,7 @@ class CsvCommand extends Command
     public function configure()
     {
         $this->setName('csv')
-            ->setDescription('Convert JOSN to CSV')
+            ->setDescription('Convert JSON to CSV')
             ->setHelp('This command give you the path to CSV file.');
     }
 

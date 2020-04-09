@@ -1,6 +1,6 @@
 {
   "name": "pimplesushant/ee-console-app",
-  "description": "Convert JOSN to CSV from Command Line / Console",
+  "description": "Convert JSON to CSV from Command Line / Console",
   "type": "project",
   "license": "MIT",
   "authors": [

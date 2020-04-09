@@ -29,7 +29,7 @@ class Command extends SymfonyCommand
      */
     protected function csv(OutputInterface $output)
     {
-        $output->writeln(["This is Console App for JOSN to CSV Conversion!"]);
+        $output->writeln(["This is Console App for JSON to CSV Conversion!"]);
         $output->write('Generating CSV.....');
         $csvPath = $this->generateCSV();
         $output->write('Please find CSV at : ' . $csvPath);
