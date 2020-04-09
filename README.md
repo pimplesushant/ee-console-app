@@ -43,6 +43,23 @@ This is Console App for JSON to CSV Conversion!
 Generating CSV.....Please find CSV at : exports/CSV_1586455143.csv
 ```
 
+# Running Unit Test
+
+```sh
+ phpunit tests/CSV/CsvCommandTest.php
+```
+
+Output
+```sh
+PHPUnit 8.0.6 by Sebastian Bergmann and contributors.
+
+.                                                                   1 / 1 (100%)
+
+Time: 102 ms, Memory: 8.00 MB
+
+OK (1 test, 2 assertions)
+```
+
 ### Support
 If you are having issues, please let me know.
 Mail me at: me@pimplesushant.in, pimple.sushant.s@gmail.com
